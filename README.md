@@ -10,3 +10,4 @@ src="https://github.com/Ardawanism/ConvMixer-Patches-Are-All-You-Need/blob/maste
 
 A very comprehensive youtube video is also provided, I strongly recommend you to watch to understand the neural network architecture proposed in this paper better.
 # video link:
+https://youtu.be/Cn_fWSi4tKs?si=pgCox4bkvISG-hwb
